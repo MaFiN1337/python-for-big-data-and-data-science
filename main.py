@@ -1,0 +1,1 @@
+print("Anton Piguliak, AI-2025")
